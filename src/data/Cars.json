@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Mercedes S class",
+        "price": 40000,
+        "year": 2023
+    },
+    {
+        "id": 2,
+        "name": "Peugeot 3008",
+        "price": 30000,
+        "year": 2023
+    },
+    {
+        "id": 3,
+        "name": "FordRanger",
+        "price": 60000,
+        "year": 2023
+    },
+    {
+        "id": 4,
+        "name": "Mercedes E250",
+        "price": 70000,
+        "year": 2023
+    },
+    {
+        "id": 5,
+        "name": "Audi",
+        "price": 50000,
+        "year": 2023
+    },
+    {
+        "id": 6,
+        "name": "LandCruiser V8",
+        "price": 100000,
+        "year": 2023
+    }
+]
